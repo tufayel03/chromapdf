@@ -1,0 +1,5 @@
+{
+  "name": "ChromaPDF - Local Colorizer",
+  "description": "Upload black and white PDFs and colorize them instantly using local browser processing.",
+  "requestFramePermissions": []
+}
